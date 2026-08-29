@@ -1,7 +1,5 @@
 # BIGESCAN Static Website
 
-موقع ثابت لبوت ديسكورد BIGESCAN بتصميم يشبه برنامج Windows XP، جاهز للرفع على GitHub Pages بدون Backend.
-
 ## الصفحات
 
 - `index.html` الصفحة الرئيسية
@@ -27,5 +25,3 @@ const DISCORD_SERVER_URL = "https://discord.gg/yn9HppbZeg";
 - `1.png`
 - `2.png`
 - `3.png`
-
-الموقع يحتوي بدائل بصرية مؤقتة إذا لم تكن الصور موجودة بعد.
